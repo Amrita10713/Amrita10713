@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amrita!
-- 👀 I’m interested in UI/UX Design and VLSI.
+- 👀 I’m interested in UI/UX Design and JAVA.
 - 🌱 I’m currently learning Electonics and Computer Engineering at RAIT, DY Patil University.
 - 📫 How to reach me: amritab825@gmail.com.
 
